@@ -92,7 +92,7 @@ repositories{
         dirs 'libs'
     }
     maven {
-        url 'http://repo.pixelnetica.com:8081/artifactory/libs-release'
+        url 'http://repo.pixelnetica.com:8081/artimfactory/libs-release'
     }
 }
 
